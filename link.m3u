@@ -432,11 +432,11 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,Fox Sports Cricket 501
+#EXTINF:-1 group-title="Sports",Fox Sports Cricket 501
 #https://venomxop.com/play.m3u8?id=fox501
 http://xtv.ooo:8080/danyear12/am809100/167593
 
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://xtv.ooo:8080/danyear12/am809100/167592
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
