@@ -706,7 +706,7 @@ http://tv.cloudcdn.me/live.ts?channelId=245&uid=himelhimu&deviceMac=00:1A:79:A8:
 #http://103.68.28.58:5001/live/1079.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=244&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
-#EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
+#EXTINF:-1 tvg-logo=""group-title="Kids",Disney Channel
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
@@ -719,7 +719,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS" POGO
+#EXTINF:-1 tvg-logo="" group-title="Kids", POGO
 http://tv.cloudcdn.me/live.ts?channelId=256&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
