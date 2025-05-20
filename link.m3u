@@ -689,7 +689,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=169&uid=2498&deviceMac=00:1A:79:A8:9C:32
 
