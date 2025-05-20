@@ -52,7 +52,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://tv.cloudcdn.me/live.ts?channelId=194&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET HD
-http://xtv.ooo:8080/danyear12/am809100/66164
+#http://xtv.ooo:8080/danyear12/am809100/66164
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://tv.cloudcdn.me/live.ts?channelId=193&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
