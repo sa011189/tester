@@ -49,7 +49,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",Sony TV
 #http://103.175.242.10:8080/sonyent10/tracks-v1a1/mono.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=194&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=194&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://38.96.178.201/live/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET HD
 #http://xtv.ooo:8080/danyear12/am809100/66164
@@ -115,7 +116,8 @@ http://tv.cloudcdn.me/live.ts?channelId=159&uid=2498&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee TV
 #http://xtv.ooo:8080/danyear12/am809100/66162
-http://tv.cloudcdn.me/live.ts?channelId=218&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=218&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://38.96.178.201/live/ZEETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee TV HD
 #http://xtv.ooo:8080/danyear12/am809100/66163
@@ -833,7 +835,8 @@ http://tv.cloudcdn.me/live.ts?channelId=328&uid=himelhimu&deviceMac=00:1A:79:A8:
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Hindi Music",Zing
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=219&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=219&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://38.96.178.201/live/Zing/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music",B4U Music
 #https://cdn2.pishow.tv/live/141/master.m3u8
@@ -976,6 +979,8 @@ http://tv.cloudcdn.me/live.ts?channelId=210&uid=himelhimu&deviceMac=00:1A:79:A8:
 #https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="Hindi News",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWd8CC9N/image.jpg" group-title="Hindi News", Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha (480p)
 #https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=147&uid=2498&deviceMac=00:1A:79:A8:9C:32
