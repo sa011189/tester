@@ -44,6 +44,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=7245&deviceMac=00:1A:79:B0:A9
 #http://tv.cloudcdn.me/live.ts?channelId=201&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me:80/live.ts?channelId=201&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+#EXTINF:-1 group-title="Hindi Entertainment",Utsav Bharat
+http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi Entertainment",Star Plus HD
 #http://217.20.112.199/starplushd/index.m3u8
 http://xtv.ooo:8080/1817176580/5916124420/66166
@@ -87,12 +90,16 @@ http://38.96.178.201/live/ZEETV/index.m3u8
 http://xtv.ooo:8080/1817176580/5916124420/66163
 #http://tv.cloudcdn.me/live.ts?channelId=217&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee Anmol
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 #https://la.drmlive.au/tp/zee-zeeanmol.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-http://xtv.ooo:8080/1817176580/5916124420/66357
+#http://xtv.ooo:8080/1817176580/5916124420/66357
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi Entertainment",&TV
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/andtvhd1.m3u8
@@ -105,6 +112,9 @@ http://xtv.ooo:8080/1817176580/5916124420/66173
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 http://xtv.ooo:8080/1817176580/5916124420/66172
 #http://tv.cloudcdn.me/live.ts?channelId=140&uid=2497&deviceMac=00:1A:79:A8:9C:32
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi Entertainment",&TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1  group-title="Hindi Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
@@ -168,7 +178,7 @@ http://xtv.ooo:8080/1817176580/5916124420/66191
 #https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 http://xtv.ooo:8080/1817176580/5916124420/66187
 #http://tv.cloudcdn.me/live.ts?channelId=209&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"group-title="Hindi Movies",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"group-title="Hindi Entertainment",Zee Anmol 2
 #http://172.105.123.238:18002/play/a024
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -819,6 +829,9 @@ http://xtv.ooo:8080/1817176580/5916124420/66289
 #http://tv.cloudcdn.me/live.ts?channelId=328&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me:80/live.ts?channelId=328&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Wah Punjabi
+http://tv.cloudcdn.me:80/live.ts?channelId=332&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Hindi Music",Zing
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=219&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -942,7 +955,7 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png" group-title="ZEE5",Zee Sarthak
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="Hindi Movies",Zee Bollywood
-http://tv.cloudcdn.me/live.ts?channelId=210&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="ZEE5",Zing
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
@@ -1150,10 +1163,12 @@ http://14.199.164.20:4001/play/a0q7/index.m3u8
 
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-logo="https://i.imgur.com/Pi6ldXm.png" group-title="Hindi Music",MH One Music (1080p)
 https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music",Just Punjabi
+http://tv.cloudcdn.me:80/live.ts?channelId=347&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-logo="https://i.imgur.com/RH52BX4.png" group-title="Hindi News",MH One News (1080p)
-https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=343&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (1080p)
-https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=344&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="English News",NDTV 24X7 (480p) [Not 24/7]
@@ -1177,6 +1192,8 @@ http://103.68.28.58:5001/live/1226.m3u8
 #https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=254&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me:80/live.ts?channelId=254&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Kids" group-title="",Nick Toons
+http://tv.cloudcdn.me:80/live.ts?channelId=255&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-logo="https://i.imgur.com/4lUwdME.png" group-title="Punjabi",PTC Chakde (720p)
 #https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=350&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -1200,8 +1217,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=355&uid=7245&deviceMac=00:1A:79:B0:A9
 #http://tv.cloudcdn.me/live.ts?channelId=354&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me:80/live.ts?channelId=354&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-logo="https://i.imgur.com/T5VK7G5.png" group-title="Punjabi",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
-
+#https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=356&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="Hindi News",Republic Bharat (360p) [Geo-blocked]
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://i.imgur.com/K9KX8un.png" group-title="English News",Republic TV [Geo-blocked]
