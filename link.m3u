@@ -230,7 +230,8 @@ http://xtv.ooo:8080/1817176580/5916124420/66199
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",&pictures
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
-http://xtv.ooo:8080/danyear12/am809100/66181
+#http://xtv.ooo:8080/danyear12/am809100/66181
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",&pictures HD
 #https://la.drmlive.au/tp/zee-pictures.m3u8
