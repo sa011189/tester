@@ -116,9 +116,6 @@ http://xtv.ooo:8080/150324003/11150324/66172
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi Entertainment",&TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
-#EXTINF:-1  group-title="Hindi Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 #http://xtv.ooo:8080/150324003/11150324/66199
 #http://tv.cloudcdn.me/live.ts?channelId=156&uid=2498&deviceMac=00:1A:79:A8:9C:32
@@ -203,10 +200,10 @@ http://xtv.ooo:8080/150324003/11150324/66177
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-#http://stvlive.net:8080/stargold2/tracks-v1a1/mono.m3u8
+http://116.90.120.149:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-#http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
+http://116.90.120.149:8000/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://103.84.57.155:8000/play/a0c8/index.m3u8
@@ -291,10 +288,13 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
-#http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+https://cdn-2.pishow.tv/live/228/228_1_s020875.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
 #http://172.105.123.238:18002/play/a00j
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/1011_1_s008753.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
@@ -309,7 +309,9 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://103.175.242.10:8080/02-Starsport1/tracks-a1/mono.m3u8
 http://xtv.ooo:8080/150324003/11150324/167575
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
+http://116.90.120.149:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://103.120.172.74:4600
@@ -325,8 +327,10 @@ http://xtv.ooo:8080/150324003/11150324/167578
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 #https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd?nimblesessionid=1734416873
 http://xtv.ooo:8080/150324003/11150324/167576
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD
-#https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/segment_u8vqom2v3_ctvideo_cfm4s_ridp0va0br500000_cs3650445270_mpd.m4s?nimblesessionid=1734424565
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 Hindi HD
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://103.120.172.74:4200
 http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -337,18 +341,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=7245&deviceMac=00:1A:79:B0
 #https://donelfantastic.github.io/live/starSportsIn3.m3u8
 http://xtv.ooo:8080/150324003/11150324/167577
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-#http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-#https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd?nimblesessionid=1734415646
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2 HD
-#https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd?nimblesessionid=1734415646
 http://xtv.ooo:8080/150324003/11150324/167579
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-#http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
+http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 #http://103.120.172.74:5400
@@ -391,7 +388,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0
 #http://172.105.123.238:18002/play/a02b
 http://xtv.ooo:8080/150324003/11150324/167588
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports HD
-#http://172.105.123.238:18002/play/a03d
+https://cdn-6.pishow.tv/live/13/13_1_s018314.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 #http://lkn1.chowdhury-shaheb.com/sports18/index.m3u8
@@ -1060,6 +1057,9 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="English News",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1  group-title="General" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="General",DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-logo="https://i.imgur.com/UAkOyRI.png" group-title="General",DD Assam
@@ -1263,6 +1263,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-logo="https://i.imgur.com/5AshBho.png" group-title="Marathi",TV9 Marathi (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-logo="https://i.imgur.com/5AshBho.png" group-title="Marathi",Fakt Marathi
+https://cdn-6.pishow.tv/live/10002/10002_1_s004707.ts
 
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-logo="https://i.ibb.co/JnxNMNq/logo-2022.png" group-title="Punjabi",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
