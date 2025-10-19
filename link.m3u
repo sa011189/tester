@@ -288,13 +288,13 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
-https://cdn-2.pishow.tv/live/228/228_1_s020875.ts
+https://cdn-2.pishow.tv/live/228/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
 #http://172.105.123.238:18002/play/a00j
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/1011_1_s008753.ts
+https://cdn-1.pishow.tv/live/1011/1011_2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
@@ -388,7 +388,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0
 #http://172.105.123.238:18002/play/a02b
 http://xtv.ooo:8080/150324003/11150324/167588
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports HD
-https://cdn-6.pishow.tv/live/13/13_1_s018314.ts
+https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 #http://lkn1.chowdhury-shaheb.com/sports18/index.m3u8
@@ -1265,7 +1265,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-logo="https://i.imgur.com/5AshBho.png" group-title="Marathi",Fakt Marathi
-https://cdn-6.pishow.tv/live/10002/10002_1_s004707.ts
+https://cdn-6.pishow.tv/live/10002/10002_2.m3u8
 
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-logo="https://i.ibb.co/JnxNMNq/logo-2022.png" group-title="Punjabi",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
