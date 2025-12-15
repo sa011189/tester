@@ -205,10 +205,11 @@ http://xtv.ooo:8080/6846422/5724373/66177
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://116.90.120.149:8000/play/a0ea/index.m3u8
+#http://116.90.120.149:8000/play/a0ea/index.m3u8
+http://87.255.35.150:18807
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-http://116.90.120.149:8000/play/a0c0/index.m3u8
+#http://116.90.120.149:8000/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://103.84.57.155:8000/play/a0c8/index.m3u8
@@ -322,7 +323,11 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://xtv.ooo:8080/6846422/5724373/167575
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://116.90.120.149:8000/play/a0bv/index.m3u8
+#http://116.90.120.149:8000/play/a0bv/index.m3u8
+http://87.255.35.150:18891
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD Hindi
+http://87.255.35.150:18302
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://103.120.172.74:4600
@@ -331,8 +336,6 @@ http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
 http://xtv.ooo:8080/6846422/5724373/167578
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD Hindi
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://bapatv.live:8080/starsports2-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
@@ -340,7 +343,8 @@ http://xtv.ooo:8080/6846422/5724373/167578
 http://xtv.ooo:8080/6846422/5724373/167576
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 Hindi HD
-http://116.90.120.149:8000/play/a0cs/index.m3u8
+#http://116.90.120.149:8000/play/a0cs/index.m3u8
+http://87.255.35.150:18882
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://103.120.172.74:4200
@@ -356,7 +360,8 @@ http://xtv.ooo:8080/6846422/5724373/167577
 http://xtv.ooo:8080/6846422/5724373/167579
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://116.90.120.149:8000/play/a0cm/index.m3u8
+#http://116.90.120.149:8000/play/a0cm/index.m3u8
+http://87.255.35.150:18952
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 #http://103.120.172.74:5400
