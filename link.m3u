@@ -77,8 +77,14 @@ http://watchindia.net:8880/52323/64902/3751
 
 #EXTINF:-1 group-title="Hindi Entertainment",Star Utsav
 http://watchindia.net:8880/52323/64902/2493
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors Hd
 http://watchindia.net:8880/52323/64902/3737
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors hd
+http://watchindia.net:8880/52323/64902/3738
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors
+http://watchindia.net:8880/52323/64902/3739
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD
 #http://103.120.172.74:1070
