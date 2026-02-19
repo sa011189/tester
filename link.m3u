@@ -100,6 +100,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=1111&deviceMac=00:1A:79:0A:3B
 
 #EXTINF:-1 group-title="Hindi Entertainment",Big Magic
 #http://xtv.ooo:8080/6846422/5724373/66188
+http://163.61.227.29:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Rishtey.png"group-title="Hindi Entertainment",Colors Rishtey
 #http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=7245&deviceMac=00:1A:79:B0:A9:0C
