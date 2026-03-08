@@ -422,9 +422,12 @@ https://mysouq1.com:443/live/76631957/10205687/124281.ts
 #http://161.248.38.40:8000/play/a06n/index.m3u8
 https://mysouq1.com:443/live/76631957/10205687/211.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD ALT
 #http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD.
+http://dottv.xyz:80/Jude100/13R8ANM/1090635
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD ALT
+http://dottv.xyz:80/Jude100/13R8ANM/1090636
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
 #http://xtv.ooo:8080/6846422/5724373/167578
@@ -436,6 +439,7 @@ https://mysouq1.com:443/live/76631957/10205687/98868.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://bapatv.live:8080/starsports2-1/tracks-v1a1/mono.m3u8
+http://dottv.xyz:80/Jude100/13R8ANM/1090637
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 #https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd?nimblesessionid=1734416873
@@ -452,6 +456,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=1111&deviceMac=00:1A:79:0A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 #http://103.84.57.155:8000/play/a02r/index.m3u8
+http://dottv.xyz:80/Jude100/13R8ANM/1090638
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 #https://donelfantastic.github.io/live/starSportsIn3.m3u8
 #http://xtv.ooo:8080/6846422/5724373/167577
@@ -605,6 +611,9 @@ http://dottv.xyz:80/Jude100/13R8ANM/1015489
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 #http://xtv.ooo:8080/6846422/5724373/167583
 https://mysouq1.com:443/live/76631957/10205687/675819.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket HD
+http://dottv.xyz:80/Jude100/13R8ANM/1090644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket 2
 #http://xtv.ooo:8080/6846422/5724373/167582
