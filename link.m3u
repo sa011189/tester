@@ -5,14 +5,17 @@
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=1111&deviceMac=00:1A:79:0A:3B:2B
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET HD
 #http://103.175.242.10:8080/sonyent10/tracks-v1a1/mono.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=194&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://38.96.178.201/live/SONY/index.m3u8
 #http://watchindia.net:8880/52323/64902/3749
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/281867
+https://mysouq1.com:443/live/76631957/10205687/224.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET 4K
 #http://xtv.ooo:8080/6846422/5724373/66164
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -20,7 +23,7 @@ http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/281867
 #http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 https://mysouq1.com:443/live/76631957/10205687/98854.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",Sony Ent HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",Sony Entertainment HD
 #http://xtv.ooo:8080/6846422/5724373/66164
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -84,6 +87,9 @@ https://mysouq1.com:443/live/76631957/10205687/221.ts
 #http://tv.cloudcdn.me/live.ts?channelId=195&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://watchindia.net:8880/52323/64902/3751
 https://mysouq1.com:443/live/76631957/10205687/98855.ts
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi Entertainment",Star Bharat HD
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 group-title="Hindi Entertainment",Star Utsav
 #http://watchindia.net:8880/52323/64902/2493
