@@ -266,9 +266,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=1111&deviceMac=00:1A:79:0A:3B
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #http://xtv.ooo:8080/6846422/5724373/66201
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Cinemalu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Utsav Gold HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372699&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold 4K
 #http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
@@ -291,7 +292,8 @@ https://mysouq1.com:443/live/76631957/10205687/157081.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 #http://116.90.120.149:8000/play/a0c0/index.m3u8
-http://161.248.38.40:8000/play/a06v/index.m3u8
+#http://161.248.38.40:8000/play/a06v/index.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373005&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://103.84.57.155:8000/play/a0c8/index.m3u8
@@ -428,23 +430,19 @@ https://mysouq1.com:443/live/76631957/10205687/98866.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://116.90.120.149:8000/play/a0bv/index.m3u8
 #http://87.255.35.150:18891
-https://mysouq1.com:443/live/76631957/10205687/124281.ts
+https://mysouq1.com:443/live/76631957/10205687/148.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD Hindi
 #http://87.255.35.150:18302
 #http://161.248.38.40:8000/play/a06n/index.m3u8
 https://mysouq1.com:443/live/76631957/10205687/211.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD ALT
-#http://103.120.172.74:4600
-http://dottv.xyz:80/Jude100/13R8ANM/1090635
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD ALT
-http://dottv.xyz:80/Jude100/13R8ANM/1090636
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
 #http://xtv.ooo:8080/6846422/5724373/167578
 https://mysouq1.com:443/live/76631957/10205687/98867.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373202&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2 HD
 #http://xtv.ooo:8080/6846422/5724373/167579
@@ -457,10 +455,12 @@ http://dottv.xyz:80/Jude100/13R8ANM/1090637
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 #https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd?nimblesessionid=1734416873
 #http://xtv.ooo:8080/6846422/5724373/167576
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373204&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 Hindi HD
 #http://116.90.120.149:8000/play/a0cs/index.m3u8
 #http://87.255.35.150:18882
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373193&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://103.120.172.74:4200
@@ -469,7 +469,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=1111&deviceMac=00:1A:79:0A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 #http://103.84.57.155:8000/play/a02r/index.m3u8
-http://dottv.xyz:80/Jude100/13R8ANM/1090638
+#http://dottv.xyz:80/Jude100/13R8ANM/1090638
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373203&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 #https://donelfantastic.github.io/live/starSportsIn3.m3u8
@@ -526,6 +527,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=1111&deviceMac=00:1A:79:0A
 #http://172.105.123.238:18002/play/a02b
 #http://xtv.ooo:8080/6846422/5724373/167588
 https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373043&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports HD
 https://mysouq1.com:443/live/76631957/10205687/4044.ts
@@ -623,7 +627,7 @@ http://dottv.xyz:80/Jude100/13R8ANM/1015489
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 #http://xtv.ooo:8080/6846422/5724373/167583
-https://mysouq1.com:443/live/76631957/10205687/675819.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373197&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket HD
 http://dottv.xyz:80/Jude100/13R8ANM/1090644
@@ -751,6 +755,10 @@ https://mysouq1.com:443/live/76631957/10205687/98872.ts
 #EXTINF:-1 group-title="Infotainment",Discovery HD
 #http://watchindia.net:8880/52323/64902/841
 https://mysouq1.com:443/live/76631957/10205687/9393.ts
+
+#EXTINF:-1 group-title="Infotainment",Discovery Hindi HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373036&extension=ts&play_token=Suotild03T
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Infotainment",Discovery HD Multi Audio
 #http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=1111&deviceMac=00:1A:79:0A:3B:2B
@@ -913,8 +921,9 @@ https://mysouq1.com:443/live/76631957/10205687/616291.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=169&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Food Network 2
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",Good Times
 #https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372949&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="Kids",Sonic Bangla
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
@@ -937,6 +946,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=1111&deviceMac=00:1A:79:0A:3B
 
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+
 #http://watchindia.net:8880/52323/64902/2718
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373140&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo=""group-title="Kids",Disney Channel
 #http://watchindia.net:8880/52323/64902/2046
@@ -1047,6 +1057,8 @@ https://mysouq1.com:443/live/76631957/10205687/191.ts
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 #https://moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.mpd?nimblesessionid=1734415339
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372989&extension=ts&play_token=Suotild03T
+
 #EXTINF:-1 tvg-logo="" group-title="English Movies",& Flix HD
 #http://xtv.ooo:8080/6846422/5724373/66236
 #http://watchindia.net:8880/52323/64902/2088
@@ -1274,7 +1286,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=1111&deviceMac=00:1A:79:0A:3B
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="Hindi News",Aaj Tak
 #http://watchindia.net:8880/52323/64902/836
-http://dottv.xyz:80/Jude100/13R8ANM/72158
+#http://dottv.xyz:80/Jude100/13R8ANM/72158
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372676&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-id="" tvg-name="AAJ TAK HD" tvg-country="IN" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="Hindi News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
