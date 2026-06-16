@@ -722,17 +722,6 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sport Italia
 #https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",,TSN 1 HD CA
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6521/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",,TSN 2 HD CA
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6492/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",,TSN 3 HD CA
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6522/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",,TSN 4 HD CA
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6445/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",,TSN 5 HD CA
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6517/index.m3u8
-
 #EXTINF:-1 group-title="Infotainment",Discovery 4K
 https://mysouq1.com:443/live/76631957/10205687/98872.ts
 #EXTINF:-1 group-title="Infotainment",Discovery HD
