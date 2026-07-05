@@ -12,16 +12,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=1111&deviceMac=00:1A:79:0A:3B
 #http://tv.cloudcdn.me/live.ts?channelId=194&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://38.96.178.201/live/SONY/index.m3u8
 #http://watchindia.net:8880/52323/64902/3749
-https://mysouq1.com:443/live/76631957/10205687/224.ts
+#https://mysouq1.com:443/live/76631957/10205687/224.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",SET HD
 #http://xtv.ooo:8080/6846422/5724373/66164
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #http://tv.cloudcdn.me/live.ts?channelId=193&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://watchindia.net:8880/52323/64902/3748
 #http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=1111&deviceMac=00:1A:79:0A:3B:2B
-https://mysouq1.com:443/live/76631957/10205687/98854.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2814
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi Entertainment",Sony Entertainment HD
 #http://xtv.ooo:8080/6846422/5724373/66164
@@ -75,10 +75,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=1111&deviceMac=00:1A:79:0A:3B
 #http://xtv.ooo:8080/6846422/5724373/66166
 #http://tv.cloudcdn.me/live.ts?channelId=200&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://watchindia.net:8880/52323/64902/3756
-https://mysouq1.com:443/live/76631957/10205687/98849.ts
+#https://mysouq1.com:443/live/76631957/10205687/98849.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi Entertainment",Star Plus HD
-https://mysouq1.com:443/live/76631957/10205687/221.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/4757
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi Entertainment",Star Bharat HD
 #http://tv.cloudcdn.me/live.ts?channelId=195&uid=13603&deviceMac=00:1A:79:64:B4:A6
@@ -93,30 +93,31 @@ http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=1111&deviceMac=00:1A:79:0A:3B
 
 #EXTINF:-1 group-title="Hindi Entertainment",Star Utsav
 #http://watchindia.net:8880/52323/64902/2493
-https://mysouq1.com:443/live/76631957/10205687/158970.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/16018
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors
 #http://103.120.172.74:1070
 #http://103.175.242.10:8080/26-Colorshd/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/6846422/5724373/66168
 #http://tv.cloudcdn.me/live.ts?channelId=161&uid=2498&deviceMac=00:1A:79:A8:9C:32
-http://103.229.254.25:7001/play/a0a1/index.m3u8
+#http://103.229.254.25:7001/play/a0a1/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/17854
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD UK
 #http://watchindia.net:8880/52323/64902/3738
-http://dottv.xyz:80/Jude100/13R8ANM/1052466
+#http://dottv.xyz:80/Jude100/13R8ANM/1052466
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD US
 #http://watchindia.net:8880/52323/64902/3739
-http://dottv.xyz:80/Jude100/13R8ANM/510530
+#http://dottv.xyz:80/Jude100/13R8ANM/510530
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD
 #http://watchindia.net:8880/52323/64902/3737
-https://mysouq1.com:443/live/76631957/10205687/219.ts
+#https://mysouq1.com:443/live/76631957/10205687/219.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD 4K
 #http://watchindia.net:8880/52323/64902/3737
-https://mysouq1.com:443/live/76631957/10205687/98851.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/17952
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi Entertainment",Colors HD
 #http://tv.cloudcdn.me/live.ts?channelId=160&uid=2498&deviceMac=00:1A:79:A8:9C:32
@@ -139,10 +140,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=1111&deviceMac=00:1A:79:0A:3B
 http://tv.cloudcdn.me:80/live.ts?channelId=159&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee TV HD
-#http://xtv.ooo:8080/6846422/5724373/66163
-#http://103.229.254.25:7001/play/a0cs/index.m3u8
-#http://tv.cloudcdn.me/live.ts?channelId=217&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-https://mysouq1.com:443/live/76631957/10205687/161.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2788
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi Entertainment",Zee TV HD
 #http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -162,7 +160,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=1111&deviceMac=00:1A:79:0A:3B
 #http://xtv.ooo:8080/6846422/5724373/66173
 #http://tv.cloudcdn.me/live.ts?channelId=141&uid=2497&deviceMac=00:1A:79:A8:9C:32
 #http://103.229.254.25:7001/play/a09v/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/9369.ts
+#https://mysouq1.com:443/live/76631957/10205687/9369.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi Entertainment",&TV HD
 #http://xtv.ooo:8080/live/golbal/global/109952.m3u8
@@ -171,7 +169,7 @@ https://mysouq1.com:443/live/76631957/10205687/9369.ts
 #http://xtv.ooo:8080/6846422/5724373/66172
 #http://tv.cloudcdn.me/live.ts?channelId=140&uid=2497&deviceMac=00:1A:79:A8:9C:32
 #http://103.229.254.25:7001/play/a034/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/232.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2865
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi Entertainment",&TV HD
 #http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -181,10 +179,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=1111&deviceMac=00:1A:79:0A:3B
 http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex FHD
-https://mysouq1.com:443/live/76631957/10205687/9378.ts
+#https://mysouq1.com:443/live/76631957/10205687/9378.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
-https://mysouq1.com:443/live/76631957/10205687/37074.ts
+#https://mysouq1.com:443/live/76631957/10205687/37074.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",SONY MAX
 #http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -194,7 +192,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=1111&deviceMac=00:1A:79:0A:3B
 #http://xtv.ooo:8080/6846422/5724373/66179
 #http://tv.cloudcdn.me/live.ts?channelId=184&uid=2498&deviceMac=00:1A:79:A8:9C:32
 #http://watchindia.net:8880/52323/64902/3745
-https://mysouq1.com:443/live/76631957/10205687/24582.ts
+#https://mysouq1.com:443/live/76631957/10205687/24582.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",SONY MAX 2
 #http://103.120.172.74:1150
@@ -233,7 +231,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=1111&deviceMac=00:1A:79:0A:3B
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema UK
-
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2792
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 #https://la.drmlive.au/tp/zee-zeeaction.m3u8
@@ -269,11 +267,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=1111&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Utsav Gold HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372699&extension=ts&play_token=Suotild03T
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/5981
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold 4K
-#http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/98858.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star GOLD HD
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
@@ -281,14 +276,14 @@ https://mysouq1.com:443/live/76631957/10205687/98858.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 #http://watchindia.net:8880/52323/64902/3752
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold HD
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2819
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 #http://116.90.120.149:8000/play/a0ea/index.m3u8
 #http://87.255.35.150:18807
 #http://103.229.254.25:7001/play/a0d0/index.m3u8
-http://dottv.xyz:80/Jude100/13R8ANM/1020178
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2 HD
-https://mysouq1.com:443/live/76631957/10205687/157081.ts
+#http://dottv.xyz:80/Jude100/13R8ANM/1020178
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 #http://116.90.120.149:8000/play/a0c0/index.m3u8
@@ -298,21 +293,21 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373005&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://103.84.57.155:8000/play/a0c8/index.m3u8
 #http://xtv.ooo:8080/6846422/5724373/66186
-https://mysouq1.com:443/live/76631957/10205687/972.ts
+#https://mysouq1.com:443/live/76631957/10205687/972.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select HD
-https://mysouq1.com:443/live/76631957/10205687/98859.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/43612
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Ustsav Movies
 #http://172.105.123.238:18002/play/a01n
-http://dottv.xyz:80/Jude100/13R8ANM/72145
+#http://dottv.xyz:80/Jude100/13R8ANM/72145
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex 4K
-https://mysouq1.com:443/live/76631957/10205687/98908.ts
+#https://mysouq1.com:443/live/76631957/10205687/98908.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 #http://tv.cloudcdn.me/live.ts?channelId=470&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -321,18 +316,18 @@ http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=1111&deviceMac=00:1A:79:0A:3B
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 #http://172.105.123.238:18002/play/a011
-https://mysouq1.com:443/live/76631957/10205687/172368.ts
+#https://mysouq1.com:443/live/76631957/10205687/172368.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhits
 #http://xtv.ooo:8080/6846422/5724373/66199
-https://mysouq1.com:443/live/76631957/10205687/172368.ts
+#https://mysouq1.com:443/live/76631957/10205687/172368.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Hindi Movies",Rishtey Cineplex
 #http://172.105.123.238:18002/play/a015
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",&pictures
 #http://watchindia.net:8880/52323/64902/783
-http://dottv.xyz:80/Jude100/13R8ANM/72165
+#http://dottv.xyz:80/Jude100/13R8ANM/72165
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",&pictures HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
@@ -345,12 +340,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=1111&deviceMac=00:1A:79:0A:3B
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #http://xtv.ooo:8080/6846422/5724373/66183
 #http://tv.cloudcdn.me/live.ts?channelId=139&uid=2497&deviceMac=00:1A:79:A8:9C:32
-https://mysouq1.com:443/live/76631957/10205687/98856.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/43625
 
 #EXTINF:-1 group-title="Hindi Movies",&Xplor HD
 #https://la.drmlive.au/tp/zee.php?id=andxplorehd
 #http://xtv.ooo:8080/6846422/5724373/66241
-https://mysouq1.com:443/live/76631957/10205687/4082.ts
+#https://mysouq1.com:443/live/76631957/10205687/4082.ts
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",BFlix Movies
 #http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
@@ -380,16 +375,16 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 #https://port.yuvraj.fun/ch/823.m3u8
 #http://172.105.123.238:18002/play/a00z
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/308320
+#http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/308320
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
 #https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #http://172.105.123.238:18002/play/a012
-https://mysouq1.com:443/live/76631957/10205687/355478.ts
+#https://mysouq1.com:443/live/76631957/10205687/355478.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
 #http://172.105.123.238:18002/play/a01j
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/308321
+#http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/308321
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies", Goldminnes Thrills
 #http://172.105.123.238:18002/play/a01h
@@ -412,45 +407,40 @@ https://cdn-1.pishow.tv/live/1011/1011_2.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies",MH One
 #http://watchindia.net:8880/52323/64902/2198
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/308443
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2844
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 4K
 #http://41.205.93.154/STARSPORTS1/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/98864.ts
+#https://mysouq1.com:443/live/76631957/10205687/98864.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135325
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 4K
-https://mysouq1.com:443/live/76631957/10205687/98865.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 Hindi 4K
-#http://103.175.242.10:8080/02-Starsport1/tracks-a1/mono.m3u8
-#http://xtv.ooo:8080/6846422/5724373/167575
-#http://103.229.254.25:7001/play/a0a0/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/98866.ts
+#https://mysouq1.com:443/live/76631957/10205687/98865.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://116.90.120.149:8000/play/a0bv/index.m3u8
 #http://87.255.35.150:18891
-https://mysouq1.com:443/live/76631957/10205687/148.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135326
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD Hindi
 #http://87.255.35.150:18302
 #http://161.248.38.40:8000/play/a06n/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/211.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2813
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
 #http://xtv.ooo:8080/6846422/5724373/167578
-https://mysouq1.com:443/live/76631957/10205687/98867.ts
+#https://mysouq1.com:443/live/76631957/10205687/98867.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports Select 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373202&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2 HD
 #http://xtv.ooo:8080/6846422/5724373/167579
-https://mysouq1.com:443/live/76631957/10205687/98868.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135327
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://bapatv.live:8080/starsports2-1/tracks-v1a1/mono.m3u8
-http://dottv.xyz:80/Jude100/13R8ANM/1090637
+#http://dottv.xyz:80/Jude100/13R8ANM/1090637
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 #https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd?nimblesessionid=1734416873
@@ -475,7 +465,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373203&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 #https://donelfantastic.github.io/live/starSportsIn3.m3u8
 #http://xtv.ooo:8080/6846422/5724373/167577
-https://mysouq1.com:443/live/76631957/10205687/1080.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2811
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3 HD
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135328
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 #http://116.90.120.149:8000/play/a0cm/index.m3u8
@@ -532,7 +525,7 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373043&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports HD
-https://mysouq1.com:443/live/76631957/10205687/4044.ts
+#https://mysouq1.com:443/live/76631957/10205687/4044.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 #http://lkn1.chowdhury-shaheb.com/sports18/index.m3u8
@@ -549,7 +542,7 @@ https://mysouq1.com:443/live/76631957/10205687/4044.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports",Eurosports
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #http://xtv.ooo:8080/6846422/5724373/167585
-https://mysouq1.com:443/live/76631957/10205687/23308.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/4747
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports",Eurosports
 
@@ -582,7 +575,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports HD
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2805
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
@@ -602,54 +596,54 @@ http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279034
 #EXTINF:-1 tvg-logo"https://ia904502.us.archive.org/21/items/sky-sports-cricket-2020/Sky_Sports_Arena_2020.png" group-title="Sports",Sky Sports Cricket
 #http://watchindia.net:8880/52323/64902/2090
 #http://4os6vafy.ottclub.xyz/iptv/7MSUUT6Y59PRLPVCU7URSF4W/7343/index.m3u8
-https://mysouq1.com:443/live/76631957/10205687/186606.ts
+#https://mysouq1.com:443/live/76631957/10205687/186606.ts
 
 #EXTINF:-1 tvg-logo"https://ia904502.us.archive.org/21/items/sky-sports-cricket-2020/Sky_Sports_Arena_2020.png" group-title="Sports",Sky Sports Football
-https://mysouq1.com:443/live/76631957/10205687/186612.ts
+#https://mysouq1.com:443/live/76631957/10205687/186612.ts
 
 #EXTINF:-1 tvg-logo"https://ia904502.us.archive.org/21/items/sky-sports-cricket-2020/Sky_Sports_Arena_2020.png" group-title="Sports",Sky Sports +
-https://mysouq1.com:443/live/76631957/10205687/186620.ts
+#https://mysouq1.com:443/live/76631957/10205687/186620.ts
 
 #EXTINF:-1 group-title="Sports",Sky Sports F1
-https://mysouq1.com:443/live/76631957/10205687/186616.ts
+#https://mysouq1.com:443/live/76631957/10205687/186616.ts
 
 #EXTINF:-1 group-title="Sports",Sky Sports Golf
-https://mysouq1.com:443/live/76631957/10205687/186614.ts
+#https://mysouq1.com:443/live/76631957/10205687/186614.ts
 
 #EXTINF:-1 group-title="Sports",Sky Sports Main Event
 #http://watchindia.net:8880/52323/64902/2091
 #http://4os6vafy.ottclub.xyz/iptv/V52XTRDBK74MR7RBASNEBDQB/7337/index.m3u8
-http://dottv.xyz:80/Jude100/13R8ANM/1281430
+#http://dottv.xyz:80/Jude100/13R8ANM/1281430
 
 #EXTINF:-1 group-title="Sports",Sky Sports Premier League
 #http://watchindia.net:8880/52323/64902/2092
-http://dottv.xyz:80/Jude100/13R8ANM/1015489
+#http://dottv.xyz:80/Jude100/13R8ANM/1015489
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 #http://xtv.ooo:8080/6846422/5724373/167583
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373197&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket HD
-http://dottv.xyz:80/Jude100/13R8ANM/1090644
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2798
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket 2
 #http://xtv.ooo:8080/6846422/5724373/167582
-https://mysouq1.com:443/live/76631957/10205687/675820.ts
+#https://mysouq1.com:443/live/76631957/10205687/675820.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow
-https://mysouq1.com:443/live/76631957/10205687/23943.ts
+#https://mysouq1.com:443/live/76631957/10205687/23943.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow 2
 #https://tgaadi-web.tech/portal/play.php?stream=287
-https://mysouq1.com:443/live/76631957/10205687/5040.ts
+#https://mysouq1.com:443/live/76631957/10205687/5040.ts
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
 #http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 #http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-https://mysouq1.com:443/live/76631957/10205687/423549.ts
+#https://mysouq1.com:443/live/76631957/10205687/423549.ts
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-https://mysouq1.com:443/live/76631957/10205687/423551.ts
+#http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#https://mysouq1.com:443/live/76631957/10205687/423551.ts
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Football
 #http://bapatv.live:8080/sfootball/tracks-v1a1/mono.m3u8
@@ -709,10 +703,10 @@ https://mysouq1.com:443/live/76631957/10205687/423551.ts
 #https://super-cdn.link/espn/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN
 #http://watchindia.net:8880/52323/64902/2161
-https://mysouq1.com:443/live/76631957/10205687/155.ts
+#https://mysouq1.com:443/live/76631957/10205687/155.ts
 #EXTINF:-1 group-title="Sports",ESPN2
 #http://watchindia.net:8880/52323/64902/2307
-https://mysouq1.com:443/live/76631957/10205687/53.ts
+#https://mysouq1.com:443/live/76631957/10205687/53.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TYC Sports Play
@@ -722,16 +716,19 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sport Italia
 #https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",CTV
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/45488
+
 #EXTINF:-1 group-title="Sports",TSN 1 HD CA
-http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6521/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/579
 #EXTINF:-1 group-title="Sports",TSN 2 HD CA
-http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6492/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/580
 #EXTINF:-1 group-title="Sports",TSN 3 HD CA
-http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6522/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/581
 #EXTINF:-1 group-title="Sports",TSN 4 HD CA
-http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6445/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/582
 #EXTINF:-1 group-title="Sports",TSN 5 HD CA
-http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6517/index.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/583
 
 #EXTINF:-1 group-title="Sports",TSN 1 HD CA ALT
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6521/index.m3u8
@@ -744,12 +741,65 @@ http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6445/index.m3u8
 #EXTINF:-1 group-title="Sports",TSN 5 HD CA ALT
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6517/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 01 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 01 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135151
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 02 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 02 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135152
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 03 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 03 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135153
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 04 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 04 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135154
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 06 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 06 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135155
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 07 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 07 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135156
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 08 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 08 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135157
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 09 VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 09 VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135158
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 10 HD (TR) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 10 HD (TR) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135359
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 11 FHD (TR) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 11 FHD (TR) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135346
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 12 HD (TR) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 12 HD (TR) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135347
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 13 FHD (ARB] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 13 FHD (ARB] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135348
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 14 (ARB) VIP Sports " tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 14 (ARB) VIP Sports 
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135350
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 15 FHD (ARB] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 15 FHD (ARB] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135351
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 16 FHD (ARB] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 16 FHD (ARB] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135352
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 17 FHD (ARB] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 17 FHD (ARB] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135353
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 18 (UK] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 18 (UK] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135354
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 19 (UK] VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 19 (UK] VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135355
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 20 (EN) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 20 (EN) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135356
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 21 (EN) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 21 (EN) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135357
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 22 (UK) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 22 (UK) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135358
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 23 (DK) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 23 (DK) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135159
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 24 FHD (DK) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 24 FHD (DK) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135360
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 25 (NO) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 25 (NO) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135361
+#EXTINF:-1 tvg-id="" tvg-name="Fifa 26 (IR) VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 26 (IR) VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135368
+#EXTINF:-1 tvg-id="" tvg-name="FIFA FR UHD VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",FIFA FR UHD VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135161
+#EXTINF:-1 tvg-id="" tvg-name="FIFA FR 4K VIP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",FIFA FR 4K VIP Sports
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/135160
 
-#EXTINF:-1 group-title="Infotainment",Discovery 4K
-https://mysouq1.com:443/live/76631957/10205687/98872.ts
 #EXTINF:-1 group-title="Infotainment",Discovery HD
 #http://watchindia.net:8880/52323/64902/841
-https://mysouq1.com:443/live/76631957/10205687/9393.ts
+#https://mysouq1.com:443/live/76631957/10205687/9393.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2857
 
 #EXTINF:-1 group-title="Infotainment",Discovery Hindi HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373036&extension=ts&play_token=Suotild03T
@@ -777,13 +827,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=1111&deviceMac=00:1A:79:0A:3B
 #https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
 #https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-https://mysouq1.com:443/live/76631957/10205687/23917.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/1884
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Infotainment",Investigation Discovery
 #https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 #https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #http://watchindia.net:8880/52323/64902/2303
-https://mysouq1.com:443/live/76631957/10205687/23790.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/1883
 
 #EXTINF:-1 group-title="Infotainment",Discovery HD
 #http://watchindia.net:8880/52323/64902/2036
@@ -972,7 +1022,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1111&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
 #http://watchindia.net:8880/52323/64902/2080
-https://mysouq1.com:443/live/76631957/10205687/979.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2818
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
 #http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
@@ -1282,7 +1332,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=1111&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="Hindi News",Aaj Tak
 #http://watchindia.net:8880/52323/64902/836
 #http://dottv.xyz:80/Jude100/13R8ANM/72158
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=372676&extension=ts&play_token=Suotild03T
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/4752
 
 #EXTINF:-1 tvg-id="" tvg-name="AAJ TAK HD" tvg-country="IN" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="Hindi News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -1461,7 +1511,7 @@ https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=367&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://tv.cloudcdn.me:80/live.ts?channelId=367&uid=1111&deviceMac=00:1A:79:0A:3B:2B
 #EXTINF:-1 tvg-id="IndiaNewsRajasthan.in" tvg-logo="https://i.imgur.com/i16786i.png" group-title="Hindi News",India News Rajasthan (576p)
-https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2846
 #EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in" tvg-logo="https://i.imgur.com/nMsMlig.png" group-title="Hindi News",India News Uttar Pradesh (576p)
 https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="English News",India Today (720p) [Not 24/7]
@@ -1649,7 +1699,10 @@ https://mysouq1.com:443/live/76631957/10205687/5869.ts
 
 #EXTINF:-1 group-title="Marathi",Zee Marathi HD
 #http://watchindia.net:8880/52323/64902/913
-https://mysouq1.com:443/live/76631957/10205687/5867.ts
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/4741
+
+#EXTINF:-1 group-title="Marathi",Zee Talkies HD
+http://skytv4k.org:8080/fmol5vEPIW/ouaRnEzDf6/2789
 
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-logo="https://i.ibb.co/JnxNMNq/logo-2022.png" group-title="Punjabi",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
